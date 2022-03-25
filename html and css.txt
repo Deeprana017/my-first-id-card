@@ -1,0 +1,55 @@
+ what is html
+ html is a presentation or markup language
+
+what is the purpose of html
+html is used to structure the content on web page
+html will provide set of elements 
+every elements will provide set of tags 
+there are 3 elements 
+1 .Heading elements
+   <h1>......</h1>
+   <h2>......</h2>
+   <h3>......</h3>
+   <h4>......</h4>
+   <h5>......</h5>
+   <h6>......</h6>
+2. Paragraph elements
+  1 tag format
+<p>.....</p>
+
+
+3.Division elements
+ 1 tag format
+  <div>......</div>
+
+Attributes are the properties of html element....
+
+
+
+
+ CSS
+
+
+    CSS IS STYLING LANGUAGE
+    purpose of css  - style or formats the content or html element
+    main property of css is color
+    in css elements are selected by tag name
+    like-  tag name, id name,class name ,parent name etc
+   padding will generate space inside the border
+    margin will generate space outside the border
+ Image element is used to upload image
+    <img/>
+    Table elements is used to create table format
+   tr -table row
+  th- table head
+  td- table data 
+etc
+  Text align  -text align property is used to set the horizontal alignment of a text
+ width - the width attribute specifies the width of input elemet
+ height- the height attribute specifies the height of input element
+ button tag --the button tag is used to create a clickable button with html
+
+
+
+WEB APPLICATION
+                 it is a application which runs on web server and can be access through internet
